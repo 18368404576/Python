@@ -1,2 +1,2 @@
-msg = 'hellow WORLE'
+msg = 'hellow'
 print(msg)
